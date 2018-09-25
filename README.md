@@ -29,7 +29,9 @@ We wanted to play around with Aspects, and built this project just to get to kno
 - High Score Aspect - Manages an "high score" list.
 -	Status Bar Aspect - Display useful information for the player during game play.
 - SaveMe Aspect - Let the player clean the board in dangerous situations.
+
 **All of these changes are Aspects, which means that none of them was entered to the source code!**
+
 
 ## Demos
 ![records](https://user-images.githubusercontent.com/14614396/45986702-d1e5b900-c075-11e8-9b2d-ceea3696004e.png)
@@ -40,5 +42,6 @@ We wanted to play around with Aspects, and built this project just to get to kno
 
 
 ## Authers
-Nitzan Wertheizer and [Evyatar Ben-Shitrit](https://github.com/eviabs)
+- Nitzan Wertheizer 
+- [Evyatar Ben-Shitrit](https://github.com/eviabs)
 
