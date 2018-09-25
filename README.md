@@ -18,8 +18,8 @@ We wanted to play around with the AOP concept, and built this project just to ge
 ## How to install? (Using windowns and IntelliJ)
 1) Download AspectJ [installation jar file](http://www.eclipse.org/aspectj/downloads.php).
 2) Install jar (double click on the downloaded jar, and follow the installer's instructions).
-3) Download the source code and open in as a project using IntelliJ (Ultimate version is required!)
-4) In IntelliJ, enable AspectJ and add AspectJ to your project using these [instructions](https://www.jetbrains.com/help/idea/enabling-aspectj-support-plugins.html)
+3) Download the source code and open it as a project using IntelliJ (Ultimate version is required!). 
+4) In IntelliJ, enable AspectJ and add AspectJ to your project using these [instructions](https://www.jetbrains.com/help/idea/enabling-aspectj-support-plugins.html). 
 5) Run the project.
 
 
