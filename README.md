@@ -3,7 +3,7 @@
 
 This is a new version of the well-known game *Tetris*, enhanced with the power of AspectJ.
 
-Original game's source code can be found [here](https://www.ssaurel.com/blog/learn-to-create-a-tetris-game-in-java-with-swing/)
+Original game's source code can be found [here](https://www.ssaurel.com/blog/learn-to-create-a-tetris-game-in-java-with-swing/).
 
 
 ## What's AspectJ?
