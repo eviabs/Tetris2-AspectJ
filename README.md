@@ -32,6 +32,11 @@ We wanted to play around with Aspects, and built this project just to get to kno
 **All of these changes are Aspects, which means that none of them was entered to the source code!**
 
 ## Demos
+![records](https://user-images.githubusercontent.com/14614396/45986702-d1e5b900-c075-11e8-9b2d-ceea3696004e.png)
+
+![2](https://user-images.githubusercontent.com/14614396/45986701-d14d2280-c075-11e8-9ef5-eb8096e56dfb.gif)
+![1](https://user-images.githubusercontent.com/14614396/45986703-d1e5b900-c075-11e8-8c54-8066cdbdd5e4.gif)
+
 
 
 ## Authers
