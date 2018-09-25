@@ -24,11 +24,11 @@ We wanted to play around with Aspects, and built this project just to get to kno
 
 
 ## What did we change in the game?
-- Color Aspect - Changes the color of the Tetris tiles according to the user's perefernces.
-- Difficulty Aspect - Changes the speed of the Tetris tiles according to the user's perefernces.
-- High Score Aspect - Manages an "high score" list.
--	Status Bar Aspect - Display useful information for the player during game play.
-- SaveMe Aspect - Let the player clean the board in dangerous situations.
+- [Color Aspect](https://github.com/eviabs/Tetris2-AspectJ/blob/master/src/aspects/ColorAspect.aj) - Changes the color of the Tetris tiles according to the user's perefernces.
+- [Difficulty Aspect](https://github.com/eviabs/Tetris2-AspectJ/blob/master/src/aspects/DifficultyAspect.aj) - Changes the speed of the Tetris tiles according to the user's perefernces.
+- [High Score Aspect](https://github.com/eviabs/Tetris2-AspectJ/blob/master/src/aspects/HighScoreAspect.aj) - Manages an "high score" list.
+-	[Status Bar Aspect](https://github.com/eviabs/Tetris2-AspectJ/blob/master/src/aspects/StatusBarAspect.aj) - Display useful information for the player during game play.
+- [SaveMe Aspect](https://github.com/eviabs/Tetris2-AspectJ/blob/master/src/aspects/SaveMeAspect.aj) - Let the player clean the board in dangerous situations.
 
 **All of these changes are Aspects, which means that none of them was entered to the source code!**
 
