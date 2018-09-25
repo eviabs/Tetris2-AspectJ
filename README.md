@@ -12,7 +12,7 @@ Original game's source code can be found [here](https://www.ssaurel.com/blog/lea
 ## Why Aspects?
 AOP gives us the power to modify existing code with ease, and add new functiomality without toutcing the source code itself.
 
-We wanted to play around with Aspects, and built this project just to get to know with the AOP concept. 
+We wanted to play around with the AOP concept, and built this project just to get to know with the AspectJ. 
 
 
 ## How to install? (Using windowns and IntelliJ)
