@@ -1,3 +1,6 @@
+[![Analytics](https://ga-beacon.appspot.com/UA-121798497-2/github/eviabs/Tetris2AspectJ)](https://github.com/igrigorik/ga-beacon)
+[![Is this project still maintained?](https://img.shields.io/badge/maintained%3F-no-red.svg?style=plastic)](https://github.com/badges/shields)
+
 # Tetris2-AspectJ
 ![bg](https://user-images.githubusercontent.com/14614396/45985598-a2cc4900-c06f-11e8-9d8c-09d7d9c37df5.jpg)
 
